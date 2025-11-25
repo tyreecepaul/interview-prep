@@ -16,4 +16,4 @@ def main():
     print(f"Target: {target} was found at index {index}")
 
 if __name__ == "__main__":
-    main()
+    main() 
